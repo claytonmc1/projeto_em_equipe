@@ -32,6 +32,8 @@ Mais uma funcionalidade
 Mais uma funcionalidade
 Mais uma funcionalidade
 
-Testar o suceso e insucesso
+Testar o sucesso e insucesso
 
 Vamos testar a execução de uma Action
+
+Testar o sucesso e insucesso
